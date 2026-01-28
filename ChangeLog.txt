@@ -1,0 +1,7 @@
+version: 0.0.1-beta
+IDaaS has launched the AKless solution, enabling users to securely obtain temporary credentials for Alibaba Cloud RAM role without using Access Keys.
+Adapted：
+    Aliyun credentialsProvider
+    OSS V1 credentialsProvider
+    OSS V2 credentialsProvider
+    SLS credentialsProvider
